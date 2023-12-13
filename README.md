@@ -10,21 +10,12 @@ Esse código tem como objetivo apenas fins didáticos.
 
 <br>
 <b> Evidências </b> <br>
-![image](https://github.com/LuaFly/cibersecurity-desafio-ransomware/assets/42554771/809c8dba-25ea-4a40-9269-c76fbffa614b)
+<img src="https://github.com/LuaFly/cibersecurity-desafio-ransomware/assets/42554771/809c8dba-25ea-4a40-9269-c76fbffa614b">
 <br>
-![image](https://github.com/LuaFly/cibersecurity-desafio-ransomware/assets/42554771/530cc833-6f5d-4b11-a9b6-2a250888f2df)
+<img src="https://github.com/LuaFly/cibersecurity-desafio-ransomware/assets/42554771/530cc833-6f5d-4b11-a9b6-2a250888f2df">
 <br>
-![image](https://github.com/LuaFly/cibersecurity-desafio-ransomware/assets/42554771/895589f8-d3a7-4a93-85b7-62e432800054)
+<img src="https://github.com/LuaFly/cibersecurity-desafio-ransomware/assets/42554771/895589f8-d3a7-4a93-85b7-62e432800054">
 <br>
-![image](https://github.com/LuaFly/cibersecurity-desafio-ransomware/assets/42554771/9e21fdd2-015f-41ff-a60d-85161171871e)
+<img src="https://github.com/LuaFly/cibersecurity-desafio-ransomware/assets/42554771/9e21fdd2-015f-41ff-a60d-85161171871e">
+<br>
 Obs: na subida para o github, ajustei o texto para ficar mais amigável.
-
-### Evidências
-
-![image](https://github.com/LuaFly/cibersecurity-desafio-ransomware/blob/main/assets/42554771/809c8dba-25ea-4a40-9269-c76fbffa614b.jpg)
-
-![image](https://github.com/LuaFly/cibersecurity-desafio-ransomware/blob/main/assets/42554771/530cc833-6f5d-4b11-a9b6-2a250888f2df.jpg)
-
-![image](https://github.com/LuaFly/cibersecurity-desafio-ransomware/blob/main/assets/42554771/895589f8-d3a7-4a93-85b7-62e432800054.jpg)
-
-![image](https://github.com/LuaFly/cibersecurity-desafio-ransomware/blob/main/assets/42554771/9e21fdd2-015f-41ff-a60d-85161171871e.jpg)
