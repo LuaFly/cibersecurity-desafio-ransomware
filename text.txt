@@ -1,0 +1,1 @@
+Este é o arquivo que será criptografado
